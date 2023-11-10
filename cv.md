@@ -32,3 +32,16 @@ My [Profile](https://otabek996.github.io/responsive-to-website/).
 
 #### Language:
 English - Intermediate.
+
+## Code Examples:
+Codewars task - [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001).
+```
+function rgb(r, g, b) {
+  function decToHex(c) {
+    if (c > 255) return 'FF';
+    else if (c < 0) return '00';
+    else return c.toString(16).padStart(2, '0').toUpperCase();
+  }
+  return decToHex(r) + decToHex(g) + decToHex(b);
+}
+```
