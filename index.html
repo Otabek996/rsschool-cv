@@ -1,15 +1,187 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- === REMIX ICON === -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
 
     <!-- === CSS === -->
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./style.css" />
 
     <title>CV</title>
-</head>
-<body>
-    
-</body>
+  </head>
+  <body>
+    <div class="container">
+      <div class="columns">
+        <div class="left-colum">
+          <header class="header">
+            <h1>Otabek Tuychiev</h1>
+            <h2>Software Developer</h2>
+          </header>
+
+          <main class="main">
+            <section class="contacts">
+              <h3>Contacts</h3>
+              <ul>
+                <li>
+                    <i class="ri-phone-fill"></i>
+                    <a href="tel: +998909963872">+998 (90) 996-38-72</a>
+                    <p></p>
+                </li>
+                <li>
+                    <i class="ri-mail-fill"></i>
+                    <a href="mailto: otabek996996@gmail.com">otabek996996@gmail.com</a>
+                </li>
+                <li>
+                    <i class="ri-telegram-fill"></i>
+                    <a href="https://t.me/Otabek996/">@Otabek996</a>
+                </li>
+                <li>
+                    <i class="ri-linkedin-box-fill"></i>
+                    <a href="https://www.linkedin.com/in/otabek-tuychiev-0179b2226/">LinkedIn</a>
+                </li>
+              </ul>
+            </section>
+
+            <section class="skills">
+                <h3>Skills</h3>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Sass</li>
+                    <li>Bootstrap</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                    <li>Vue (Basics)</li>
+                    <li>Git</li>
+                    <li>GitHub, GitLab</li>
+                    <li>VS Code</li>
+                    <li>Figma</li>
+                </ul>
+            </section>
+
+            <section class="languages">
+                <h3>Languages</h3>
+                <ul>
+                    <li>
+                        <p class="language">English</p>
+                        <p class="language-level">Intermediate</p>
+                    </li>
+                    <li>
+                        <p class="language">Russian</p>
+                        <p class="language-level">Advanced</p>
+                    </li>
+                    <li>
+                        <p class="language">Uzbek</p>
+                        <p class="language-level">Native</p>
+                    </li>
+                </ul>
+            </section>
+          </main>
+        </div>
+
+        <aside class="right-colum">
+            <section class="about-me">
+                <div class="sub-header">
+                    <i class="ri-user-fill"></i>
+                    <h3>About me</h3>
+                </div>
+                <p>My name is Otabek Tuychiev, and my goal is to become a programmer. 
+                    Although I have no work experience in this field, I am full of 
+                    determination to learn and discover new things. I possess 
+                    strong analytical abilities, attention to detail, and the 
+                    capability to solve complex problems.
+                </p>
+                <p>Through self-study, I have learned the basics of programming 
+                    in JavaScript, and I have familiarized myself with 
+                    the fundamental principles of software development. 
+                    I am actively learning new technologies and eager to 
+                    apply my knowledge in practice.
+                </p>
+                <p>My main priorities are continuous development 
+                    and improvement of my skills, as well as 
+                    participation in interesting and challenging 
+                    projects. I am confident that my motivation and 
+                    willingness to learn will allow me to become 
+                    a valuable specialist in the field of programming.
+                </p>
+            </section>
+
+            <section class="education">
+                <div class="sub-header">
+                    <i class="ri-graduation-cap-fill"></i>
+                    <h3>Education</h3>
+                </div>
+                <p><strong>Tashkent Institute of Chemical Technology</strong></p>
+                <p>Faculty of Food Technology</p>
+                <p><em>Years:</em> 2020 - 2024</p>
+                <p><em>Specialization:</em> Food Production Technologist, Bachelor’s degree</p>
+            </section>
+
+            <section class="internships">
+                <div class="sub-header">
+                    <i class="ri-book-2-fill"></i>
+                    <h3>Internships</h3>
+                </div>
+                <p><strong>Itransition</strong></p>
+                <p>Commercial Software Development — JavaScript</p>
+                <p><em>Period:</em> April, 2024 - June, 2024</p>
+                <p><em>Specialization:</em> Frontend Developer</p>
+            </section>
+
+            <section class="courses">
+                <div class="sub-header">
+                    <i class="ri-book-3-fill"></i>
+                    <h3>Courses</h3>
+                </div>
+                <p><strong>RS School</strong></p>
+                <p>JavaScript/Frontend Pre-School</p>
+                <p><em>Period:</em> June, 2024 - Present</p>
+                <p><em>Specialization:</em> Frontend Developer</p>
+            </section>
+
+            <section class="code-example">
+                <div class="sub-header">
+                    <i class="ri-code-view"></i>
+                    <h3>Code example</h3>
+                </div>
+                <p>
+                    <strong>Fibonacci Number:</strong> The Fibonacci numbers, commonly denoted 
+                    <code>F(n)</code> form a sequence, called the Fibonacci sequence, 
+                    such that each number is the sum of the two preceding ones, starting from 
+                    <code>0</code> and <code>1</code>. That is, 
+                    <br><code>F(0) = 0, F(1) = 1</code>
+                    <br><code>F(n) = F(n - 1) + F(n - 2), for n > 1</code>.
+                    <br>Given <code>n</code>, calculate <code>F(n)</code>.
+                </p>
+                <pre>
+                    <code>
+                        var fib = function(n) {
+                            if (n == 0 || n == 1) return n;
+                            return fib(n - 1) + fib(n - 2);
+                        };
+                    </code>
+                </pre>
+            </section>
+        </aside>
+      </div>
+
+      <footer>
+        <a href="https://github.com/Otabek996">
+            <i class="ri-github-fill"></i>
+        </a>
+
+        <p>© 2024</p>
+
+        <a href="https://rs.school/js/">
+            <img src="./icons/rsschool.svg" alt="RS School" width="73" height="26">
+        </a>
+      </footer>
+    </div>
+  </body>
 </html>
