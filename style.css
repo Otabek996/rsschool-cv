@@ -145,3 +145,8 @@ footer {
 footer a {
     color: #ffffff;
 }
+
+.button-download {
+    margin: 10px;
+    padding: 10px;
+}
