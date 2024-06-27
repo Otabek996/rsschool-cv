@@ -1,5 +1,5 @@
 # Otabek Tuychiev
-### Frontend Developer
+### Software Developer
 
 ---
 
@@ -8,24 +8,24 @@
 **Phone:** +998 90 9963872 <br>
 **Email:** otabek996996@gmail.com <br>
 **Telegram:** @Otabek996 <br>
-**[LinkedIn]**(https://www.linkedin.com/in/otabek-tuychiev-0179b2226/) <br>
+[LinkedIn](https://www.linkedin.com/in/otabek-tuychiev-0179b2226/) <br>
 
 ---
 
 ### Briefly About Me:
 
-My name is Otabek Tuychiev, and my goal is to become a programmer. Although I have no work <br>
-experience in this field, I am full of determination to learn and discover new things. I possess strong <br>
-analytical abilities, attention to detail, and the capability to solve complex problems. <br>
+My name is Otabek Tuychiev, and my goal is to become a programmer. Although I have no work 
+experience in this field, I am full of determination to learn and discover new things. I possess strong 
+analytical abilities, attention to detail, and the capability to solve complex problems. 
 
-Through self-study, I have learned the basics of programming in JavaScript, <br>
-and I have familiarized myself with the fundamental principles of <br>
-software development. I am actively learning new technologies and eager to apply <br>
-my knowledge in practice. <br>
+Through self-study, I have learned the basics of programming in JavaScript, 
+and I have familiarized myself with the fundamental principles of 
+software development. I am actively learning new technologies and eager to apply 
+my knowledge in practice. 
 
-My main priorities are continuous development and improvement of my skills, as well as <br>
-participation in interesting and challenging projects. I am confident that my motivation and <br>
-willingness to learn will allow me to become a valuable specialist in the field of programming. <br>
+My main priorities are continuous development and improvement of my skills, as well as 
+participation in interesting and challenging projects. I am confident that my motivation and 
+willingness to learn will allow me to become a valuable specialist in the field of programming. 
 
 ---
 
@@ -48,7 +48,7 @@ willingness to learn will allow me to become a valuable specialist in the field 
 ### Code example:
 
 **Fibonacci Number:**
-*The Fibonacci numbers, commonly denoted `F(n)` form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from `0` and `1`. That is, `F(0) = 0, F(1) = 1` <br> `F(n) = F(n - 1) + F(n - 2), for n > 1`. Given `n`, calculate `F(n)`.*
+*The Fibonacci numbers, commonly denoted `F(n)` form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from `0` and `1`. That is, <br> `F(0) = 0, F(1) = 1` <br> `F(n) = F(n - 1) + F(n - 2), for n > 1`. <br> Given `n`, calculate `F(n)`.*
 
 ```javascript
 var fib = function(n) {
@@ -61,37 +61,37 @@ var fib = function(n) {
 
 ### Projects
 
-*Portfolio website*
-Link: [TO](https://otabek996.github.io/responsive-to-website/)
-Used tools: HTML, CSS, JavaScript, React
-Features: Dark and light mode, responsive design, react site
+**Portfolio website** <br>
+*Link*: [TO](https://otabek996.github.io/responsive-to-website/) <br>
+*Used tools*: HTML, CSS, JavaScript, React <br>
+*Features*: Dark and light mode, responsive design, react site
 
 ---
 
 ### Education
 
-*Tashkent Institute of Chemical Technology*
-Faculty of Food Technology
-Years: 2020 - 2024
-Specialization: Food Production Technologist, Bachelor's degree
+**Tashkent Institute of Chemical Technology** <br>
+Faculty of Food Technology <br>
+*Years:* 2020 - 2024 <br>
+*Specialization:* Food Production Technologist, Bachelor's degree <br>
 
 ---
 
 ### Internships
 
-*Itransition*
-Commercial Software Development — JavaScript
-Period: April, 2024 - June, 2024
-Specialization: Frontend Developer
+**Itransition** <br>
+Commercial Software Development — JavaScript <br>
+*Period:* April, 2024 - June, 2024 <br>
+*Specialization:* Frontend Developer <br>
 
 ---
 
 ### Courses
 
-*RS School*
-JavaScript/Frontend Pre-School
-Period: June, 2024 - Present
-Specialization: Frontend Developer
+**RS School** <br>
+JavaScript/Frontend Pre-School <br>
+*Period:* June, 2024 - Present <br>
+*Specialization:* Frontend Developer <br>
 
 ---
 
