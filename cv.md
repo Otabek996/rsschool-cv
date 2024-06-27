@@ -12,7 +12,7 @@
 
 ---
 
-### Briefly About Me:
+### Briefly about me:
 
 My name is Otabek Tuychiev, and my goal is to become a programmer. Although I have no work 
 experience in this field, I am full of determination to learn and discover new things. I possess strong 
@@ -59,7 +59,7 @@ var fib = function(n) {
 
 ---
 
-### Projects
+### Projects:
 
 **Portfolio website** <br>
 *Link*: [TO](https://otabek996.github.io/responsive-to-website/) <br>
@@ -68,7 +68,7 @@ var fib = function(n) {
 
 ---
 
-### Education
+### Education:
 
 **Tashkent Institute of Chemical Technology** <br>
 Faculty of Food Technology <br>
@@ -77,7 +77,7 @@ Faculty of Food Technology <br>
 
 ---
 
-### Internships
+### Internships:
 
 **Itransition** <br>
 Commercial Software Development — JavaScript <br>
@@ -86,7 +86,7 @@ Commercial Software Development — JavaScript <br>
 
 ---
 
-### Courses
+### Courses:
 
 **RS School** <br>
 JavaScript/Frontend Pre-School <br>
@@ -95,7 +95,7 @@ JavaScript/Frontend Pre-School <br>
 
 ---
 
-### Languages
+### Languages:
 
 - *English* - Intermediate
 - *Russian* - Advanced
