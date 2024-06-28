@@ -144,6 +144,22 @@ body {
     text-decoration: underline;
 }
 
+.projects ul {
+    margin-top: 5px;
+}
+
+.website-category {
+    margin-left: 20px;
+}
+
+.website-category a {
+    color: #505050;
+}
+
+.website-category a:hover {
+    text-decoration: underline;
+}
+
 pre {
   margin-left: -230px;
 }
