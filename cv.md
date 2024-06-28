@@ -72,8 +72,7 @@ _Academic score:_ GPA 3.75
 ## Courses
 **RS SCHOOL**  
 _JavaScript/Frontend Pre-School_  
-_Period:_ June, 2024 - Present  
-_Specialization:_ Frontend Developer
+_Period:_ June 2024 - Present  
 
 ## Languages
 - _English_ - Intermediate
