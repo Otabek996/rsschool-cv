@@ -137,6 +137,11 @@ body {
 }
 
 .experience .certificate-link {
+    color: #505050;
+}
+
+.experience .certificate-link:hover {
+    text-decoration: underline;
 }
 
 pre {
