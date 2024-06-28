@@ -1,4 +1,5 @@
 # Otabek Tuychiev
+<img src="img/cv-photo.jpg" width="150">
 
 ## Contacts
 Email: otabek996996@gmail.com  
