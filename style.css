@@ -178,6 +178,16 @@ footer a {
   color: #ffffff;
 }
 
+.github-link {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
+
 .button-download {
   margin: 10px;
   padding: 10px;
